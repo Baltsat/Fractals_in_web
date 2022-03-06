@@ -1,2 +1,2 @@
 # Fractals_in_web
-Auto generating fractals in html.
+Auto generating fractals in HTML + JavaScript.
